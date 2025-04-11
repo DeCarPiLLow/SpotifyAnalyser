@@ -1,0 +1,23 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# ASP.NET
+bin/
+obj/
+
+# React
+node_modules/
+build/
+
+# Python
+ml/venv/
+__pycache__/
+
+# OS
+.DS_Store
+Thumbs.db
+
